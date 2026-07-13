@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Ykaro Albuquerque</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Ykaro Albuquerque</description>
+    <image>
+      <title>Ykaro Albuquerque</title>
+      <url>http://localhost:1313/images/Ykaro.jpg</url>
+      <link>http://localhost:1313/images/Ykaro.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Personal and academic background.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact information.</description>
+    </item>
+    <item>
+      <title>Curriculum</title>
+      <link>http://localhost:1313/curriculum/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/curriculum/</guid>
+      <description>Academic and professional background.</description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/</guid>
+      <description>Upcoming and past academic events.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Overview of research and development projects.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+baseURL = 'https://ykaroalbuquerque.github.io/'
+locale = 'en-us'
+title = 'Ykaro Albuquerque'
+theme = 'PaperMod'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = 'Personal website of an undergraduate Computer Science student and research iniciant.'
+  author = 'Ykaro Albuquerque'
+  images = ['/images/Ykaro.jpg']
+  mainSections = ['page']
+
+  [params.assets]
+    favicon = '/favicon.svg'
+
+  [params.homeInfoParams]
+    Title = 'Hello, I am Ykaro Albuquerque'
+    Content = 'I am an undergraduate Computer Science student, passionate about technology, research, and building meaningful solutions.'
+
+  [params.profileMode]
+    enabled = true
+    imageUrl = '/images/Ykaro.jpg'
+    imageWidth = 120
+    imageHeight = 120
+
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Events'
+  url = '/events/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Contact'
+  url = '/contact/'
+  weight = 30

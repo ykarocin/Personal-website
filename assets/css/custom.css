@@ -1,0 +1,12 @@
+.main .profile {
+    min-height: auto;
+    padding-bottom: 0.5rem;
+}
+
+.profile .profile_inner {
+    gap: 0.5rem;
+}
+
+.main .post-content {
+    margin-top: 0.5rem;
+}

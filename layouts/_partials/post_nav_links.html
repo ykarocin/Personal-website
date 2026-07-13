@@ -1,0 +1,16 @@
+{{- $mainSections := site.Params.mainSections | default (slice "page") }}
+{{- $pages := where site.RegularPages "Type" "in" $mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  {{- with $pages.Next . }}
+  <a class="prev" href="{{ .Permalink }}" rel="prev">
+    <span class="title">← Previous</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev . }}
+  <a class="next" href="{{ .Permalink }}" rel="next">
+    <span class="title">Next →</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
