@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir = false
 [params]
   description = 'Personal website of an undergraduate Computer Science student and research iniciant.'
   author = 'Ykaro Albuquerque'
-  images = ['/images/Ykaro.jpg']
+  images = ['/static/images/Ykaro.jpg']
   mainSections = ['page']
 
   [params.assets]
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
 
   [params.profileMode]
     enabled = true
-    imageUrl = '/images/Ykaro.jpg'
+    imageUrl = '/static/images/Ykaro.jpg'
     imageWidth = 120
     imageHeight = 120
 
