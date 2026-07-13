@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About on Ykaro Albuquerque</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>https://ykarocin.github.io/Personal-website/tags/about/</link>
     <description>Recent content in About on Ykaro Albuquerque</description>
     <image>
       <title>Ykaro Albuquerque</title>
-      <url>http://localhost:1313/images/Ykaro.jpg</url>
-      <link>http://localhost:1313/images/Ykaro.jpg</link>
+      <url>https://ykarocin.github.io/images/Ykaro.jpg</url>
+      <link>https://ykarocin.github.io/images/Ykaro.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ykarocin.github.io/Personal-website/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://ykarocin.github.io/Personal-website/about/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://ykarocin.github.io/Personal-website/about/</guid>
       <description>Personal and academic background.</description>
     </item>
   </channel>
