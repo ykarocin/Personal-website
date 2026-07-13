@@ -1,4 +1,4 @@
-baseURL = 'https://ykaroalbuquerque.github.io/'
+baseURL = "https://ykarocin.github.io/personal-website/"
 locale = 'en-us'
 title = 'Ykaro Albuquerque'
 theme = 'PaperMod'
