@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Ykaro Albuquerque</title>
-    <link>https://ykarocin.github.io/Personal-website/</link>
+    <link>http://localhost:1313/Personal-website/</link>
     <description>Recent content in Home on Ykaro Albuquerque</description>
     <image>
       <title>Ykaro Albuquerque</title>
-      <url>https://ykarocin.github.io/images/Ykaro.jpg</url>
-      <link>https://ykarocin.github.io/images/Ykaro.jpg</link>
+      <url>http://localhost:1313/Personal-website/images/Ykaro.jpg</url>
+      <link>http://localhost:1313/Personal-website/images/Ykaro.jpg</link>
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ykarocin.github.io/Personal-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Personal-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://ykarocin.github.io/Personal-website/about/</link>
+      <link>http://localhost:1313/Personal-website/about/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ykarocin.github.io/Personal-website/about/</guid>
+      <guid>http://localhost:1313/Personal-website/about/</guid>
       <description>Personal and academic background.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://ykarocin.github.io/Personal-website/contact/</link>
+      <link>http://localhost:1313/Personal-website/contact/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ykarocin.github.io/Personal-website/contact/</guid>
+      <guid>http://localhost:1313/Personal-website/contact/</guid>
       <description>Contact information.</description>
     </item>
     <item>
       <title>Curriculum</title>
-      <link>https://ykarocin.github.io/Personal-website/curriculum/</link>
+      <link>http://localhost:1313/Personal-website/curriculum/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ykarocin.github.io/Personal-website/curriculum/</guid>
+      <guid>http://localhost:1313/Personal-website/curriculum/</guid>
       <description>Academic and professional background.</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://ykarocin.github.io/Personal-website/events/</link>
+      <link>http://localhost:1313/Personal-website/events/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ykarocin.github.io/Personal-website/events/</guid>
+      <guid>http://localhost:1313/Personal-website/events/</guid>
       <description>Upcoming and past academic events.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://ykarocin.github.io/Personal-website/projects/</link>
+      <link>http://localhost:1313/Personal-website/projects/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://ykarocin.github.io/Personal-website/projects/</guid>
+      <guid>http://localhost:1313/Personal-website/projects/</guid>
       <description>Overview of research and development projects.</description>
     </item>
   </channel>

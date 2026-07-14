@@ -11,11 +11,11 @@ defaultContentLanguageInSubdir = false
 [params]
   description = 'Personal website of an undergraduate Computer Science student and research iniciant.'
   author = 'Ykaro Albuquerque'
-  images = ['/images/Ykaro.jpg']
+  images = ['images/Ykaro.jpg']
   mainSections = ['page']
 
   [params.assets]
-    favicon = '/favicon.svg'
+    favicon = 'favicon.svg'
 
   [params.homeInfoParams]
     Title = 'Hello, I am Ykaro Albuquerque'
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
 
   [params.profileMode]
     enabled = true
-    imageUrl = '/images/Ykaro.jpg'
+    imageUrl = 'images/Ykaro.jpg'
     imageWidth = 120
     imageHeight = 120
 
